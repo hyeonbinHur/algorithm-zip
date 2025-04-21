@@ -1,0 +1,10 @@
+## 난이도에 집중하지 말고 풀었는지 못풀었는지에 집중해라
+[백준 포도주 시식] (.https://www.acmicpc.net/problem/2156)
+[백준 가장 큰 증가하는 부분 수열] (.https://www.acmicpc.net/problem/2156)
+[백준 가장 긴 증가하는 부분 수열 4] (.https://www.acmicpc.net/problem/2156)
+[백준 퇴사] (.https://www.acmicpc.net/problem/2156)
+[백준 도넛과 막대 그래프] (.https://school.programmers.co.kr/learn/courses/30/lessons/258711)
+[백준 산모양 타일링] (.https://school.programmers.co.kr/learn/courses/30/lessons/258711)
+[백준 이친수] (.https://www.acmicpc.net/problem/2193)
+[백준 연속합] (.https://www.acmicpc.net/problem/2193)
+[백준 오르막 수] (.https://www.acmicpc.net/problem/11057)

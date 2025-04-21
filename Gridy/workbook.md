@@ -1,0 +1,11 @@
+## 난이도에 집중하지 말고 풀었는지 못풀었는지에 집중해라
+[프로그래머스 주사위 고르기] (.https://school.programmers.co.kr/learn/courses/30/lessons/258709)
+[백준 회의실 배정] (.https://www.acmicpc.net/problem/1931)
+[백준 주식] (.https://www.acmicpc.net/problem/11501)
+[백준 공주닝의 정원] (.https://www.acmicpc.net/problem/2457)
+[백준 선 긋기] (.https://www.acmicpc.net/problem/2170)
+[백준 멀티탭 스케줄링] (.https://www.acmicpc.net/problem/1700)
+[백준 줄세우기] (.https://www.acmicpc.net/problem/7570)
+[백준 카드 합체 놀이] (.https://www.acmicpc.net/problem/15903)
+[백준 강의실 배정] (.https://www.acmicpc.net/problem/15903)
+[백준 뒤집기] (.https://www.acmicpc.net/problem/1439)

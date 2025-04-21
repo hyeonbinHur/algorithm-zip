@@ -1,0 +1,12 @@
+## 난이도에 집중하지 말고 풀었는지 못풀었는지에 집중해라
+[백준 바이러스] (.https://www.acmicpc.net/problem/2606)
+[백준 회장뽑기] (.https://www.acmicpc.net/problem/2660)
+[백준 거짓말] (.https://www.acmicpc.net/problem/1043)
+[백준 ACM Craft] (.https://www.acmicpc.net/problem/1043)
+[백준 문제집] (.https://www.acmicpc.net/problem/1766)
+[백준 계보 복원가 호석] (.https://www.acmicpc.net/problem/21276)
+[백준 집합의 표현] (.https://www.acmicpc.net/problem/21276)
+[백준 소셜 네트워킹 어플리케이션] (.https://www.acmicpc.net/problem/7511)
+[백준 로봇 조립] (.https://www.acmicpc.net/problem/7511)
+[프로그래머스 가장 먼 노드] (.https://school.programmers.co.kr/learn/courses/30/lessons/49189)
+[소프티어 거리 합 구하기] (.https://softeer.ai/practice/6258)
