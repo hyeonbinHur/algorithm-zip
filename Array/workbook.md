@@ -1,5 +1,6 @@
 ## 난이도에 집중하지 말고 풀었는지 못풀었는지에 집중해라
-- [백준 6549] (.https://www.acmicpc.net/problem/6549)
+- [백준 6549](.https://www.acmicpc.net/problem/6549)
+    - [정답](./ans/bj6549.js)
 - [Leetcode 32] (.https://leetcode.com/problems/longest-valid-parentheses/description/)
 - [Leetcode 1944 Number of Visible People in a Queue] (.https://leetcode.com/problems/number-of-visible-people-in-a-queue/description/)
 - [Leetcode 2334 Subarray with Elements Greater Than Varying Threashold] (.https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/description/)
